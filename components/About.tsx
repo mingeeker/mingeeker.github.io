@@ -9,7 +9,7 @@ const About: React.FC = () => {
           <h2 className="text-3xl font-bold text-white mb-6">我是杨明亮。</h2>
           <div className="space-y-6 text-gray-400 leading-relaxed text-sm md:text-base">
             <p>
-              拥有 <strong className="text-white">6年 Java 后端开发经验</strong>，深度参与多个<strong className="text-white">0到1项目构建</strong>，涵盖互联网和工业软件领域。
+               资深 <strong className="text-white">Java后端工程师</strong>，深度参与多个从<strong className="text-white">0到1项目构建与落地</strong>，涵盖互联网与工业智能制造双重领域。
             </p>
             <p>
               专注用<strong className="text-white">工程化方法</strong>解决复杂问题，具备扎实的编码功底和系统架构设计能力。
@@ -18,7 +18,7 @@ const About: React.FC = () => {
               在AI应用工程方面，我积极探索大模型在企业级应用中的落地实践，主导AI智能体开发与系统集成。
             </p>
             <p>
-              具备全栈开发能力，从后端架构到前端界面，从DevOps部署到系统运维，均有丰富实践经验。
+                具备全栈技术视野，从后端架构到前端界面，从DevOps部署到系统运维，均有丰富实践经验。
             </p>
             <p>
               始终保持对新技术的热情，具备极强的创新能力和学习能力，致力于用技术创造更大价值。
