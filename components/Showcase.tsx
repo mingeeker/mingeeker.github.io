@@ -37,8 +37,7 @@ const Showcase: React.FC = () => {
              <p className="text-xs font-mono text-cyan-400 mb-2">AI智能分析 / Spring Cloud & AI</p>
              <h3 className="text-2xl font-bold mb-3">MES智能监测系统</h3>
              <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-             针对石油化工行业的MES系统，实现生产过程实时监控与智能分析。主导电气设备检测系统设计开发，接入AI大模型实现生产智能分析与智能问答功能，建立APaaS平台流水线完成服务部署与运维。
-             </p>
+                 负责面向石油化工的MES系统核心开发，通过AI大模型实现生产过程的智能监控与实时分析。搭建的APaaS部署流水线与智能问答功能，显著提升了生产与运维决策效率。</p>
            </div>
         </div>
 
@@ -56,12 +55,11 @@ const Showcase: React.FC = () => {
              </div>
              <h3 className="text-2xl font-bold mb-3">IT一体化运营平台</h3>
              <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-             覆盖4万多台IT设备、2000余个机房、1300余套应用系统的数字化运营平台。主导80%以上核心功能从0到1建设，设计数据权限管理服务，实现生产运营系统自动化处置流程，提升开发效率10%。
-             </p>
+                 负责规模化数字运营平台建设，覆盖超4万设备与千余系统。主导核心功能闭环落地，通过设计数据权限中心与自动化处置流程，驱动运维效率与开发能效双提升。</p>
            </div>
         </div>
 
-        {/* Card 3: 非现场检查平台 (Rule Engine & AI) */}
+        {/* Card 3: 监管合规与科技资产管理平台 (Rule Engine & AI) */}
         <div className="group relative bg-white/5 border border-white/10 hover:border-white/30 transition-all duration-500 overflow-hidden h-[480px]">
            <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent z-10"></div>
            <img src={getImageUrl("xiaohongshu1.jpg")}
@@ -69,10 +67,10 @@ const Showcase: React.FC = () => {
                 className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:scale-105 transition-transform duration-700 grayscale group-hover:grayscale-0" alt="Risk Management" />
            
            <div className="absolute bottom-0 left-0 p-8 z-20 w-full">
-             <p className="text-xs font-mono text-purple-400 mb-2">风险&资产管控 / Drools规则引擎</p>
-             <h3 className="text-2xl font-bold mb-3">非现场检查及资产管理平台</h3>
+             <p className="text-xs font-mono text-purple-400 mb-2">风险管控 / Drools规则引擎</p>
+             <h3 className="text-2xl font-bold mb-3">监管合规与科技资产管理平台</h3>
              <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-               承载风险指标检查、年度考核和资产全生命周期管理的平台。使用Drools规则引擎和模版方法设计模式实现风险指标、报表、考核任务线上自动化管理，大大提升项目可维护性和扩展性。
+                 打造集风险监测、考核评估与资产管理于一体的平台，通过规则引擎驱动核心业务流程自动化，实现对复杂管理任务的线上化与敏捷响应。
              </p>
            </div>
         </div>
@@ -88,8 +86,7 @@ const Showcase: React.FC = () => {
              <p className="text-xs font-mono text-blue-400 mb-2">微服务 / 电商系统</p>
              <h3 className="text-2xl font-bold mb-3">B2C商城后台管理系统</h3>
              <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-             B2C模式电商平台，采用微服务架构，负责核心功能设计和开发。使用Gateway组件提供负载均衡、服务熔断、统一认证等功能，实现Docker镜像化部署。
-             </p>
+                 负责高并发B2C电商平台的核心架构与开发。通过Gateway实现服务高可用与安全管控，完成全链路容器化部署，有力支撑了业务的弹性扩展与敏捷交付。</p>
            </div>
         </div>
 
