@@ -37,7 +37,7 @@ const Showcase: React.FC = () => {
              <p className="text-xs font-mono text-cyan-400 mb-2">AI智能分析 / Spring Cloud & AI</p>
              <h3 className="text-2xl font-bold mb-3">MES智能监测系统</h3>
              <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-             针对石油化工行业的MES系统，实现生产过程实时监控与智能分析。主导电气设备检测系统设计开发，接入AI大模型实现生产智能分析与机器人智能问答功能，建立APaaS平台流水线完成服务部署与运维。
+             针对石油化工行业的MES系统，实现生产过程实时监控与智能分析。主导电气设备检测系统设计开发，接入AI大模型实现生产智能分析与智能问答功能，建立APaaS平台流水线完成服务部署与运维。
              </p>
            </div>
         </div>
@@ -69,15 +69,15 @@ const Showcase: React.FC = () => {
                 className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:scale-105 transition-transform duration-700 grayscale group-hover:grayscale-0" alt="Risk Management" />
            
            <div className="absolute bottom-0 left-0 p-8 z-20 w-full">
-             <p className="text-xs font-mono text-purple-400 mb-2">风险管控 / Drools规则引擎</p>
-             <h3 className="text-2xl font-bold mb-3">非现场检查平台</h3>
+             <p className="text-xs font-mono text-purple-400 mb-2">风险&资产管控 / Drools规则引擎</p>
+             <h3 className="text-2xl font-bold mb-3">非现场检查及资产管理平台</h3>
              <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-               承载风险指标检查、年度考核和日常监督工作的平台。使用Drools规则引擎和模版方法设计模式实现风险指标检查服务，实现指标、报表、考核任务自动化，提高项目可维护性和扩展性。
+               承载风险指标检查、年度考核和资产全生命周期管理的平台。使用Drools规则引擎和模版方法设计模式实现风险指标、报表、考核任务线上自动化管理，大大提升项目可维护性和扩展性。
              </p>
            </div>
         </div>
 
-        {/* Card 4: 每日优鲜商城 (E-commerce Platform) */}
+        {/* Card 4: 商城 (E-commerce Platform) */}
         <div className="group relative bg-white/5 border border-white/10 hover:border-white/30 transition-all duration-500 overflow-hidden h-[480px]">
            <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent z-10"></div>
            <img src={getImageUrl("1Wechat.jpg")}
@@ -86,9 +86,9 @@ const Showcase: React.FC = () => {
            
            <div className="absolute bottom-0 left-0 p-8 z-20 w-full">
              <p className="text-xs font-mono text-blue-400 mb-2">微服务 / 电商系统</p>
-             <h3 className="text-2xl font-bold mb-3">每日优鲜后台管理系统</h3>
+             <h3 className="text-2xl font-bold mb-3">B2C商城后台管理系统</h3>
              <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-             B2C模式电商平台，采用微服务架构，负责会员服务、商品服务、优惠服务等模块的设计开发。使用Gateway组件提供负载均衡、服务熔断、统一认证等功能，实现Docker镜像化部署。
+             B2C模式电商平台，采用微服务架构，负责核心功能设计和开发。使用Gateway组件提供负载均衡、服务熔断、统一认证等功能，实现Docker镜像化部署。
              </p>
            </div>
         </div>
