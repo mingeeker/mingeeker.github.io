@@ -9,10 +9,10 @@ const Marquee: React.FC = () => {
 
             <div className="flex whitespace-nowrap animate-marquee">
         <span className="text-4xl md:text-5xl font-bold text-white px-4 stroke-text opacity-80 font-mono">
-        &nbsp;•&nbsp;&nbsp;•&nbsp; JAVA &nbsp;•&nbsp; SPRING CLOUD &nbsp;•&nbsp; AI AGENT &nbsp;•&nbsp; RULE ENGINE &nbsp;•&nbsp; DOCKER &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; VUE.JS &nbsp;&nbsp;•&nbsp;&nbsp;•&nbsp;&nbsp;•&nbsp;
+        &nbsp;•&nbsp;&nbsp;•&nbsp; JAVA &nbsp;•&nbsp; AI AGENT &nbsp;•&nbsp; RULE ENGINE &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; VUE.JS &nbsp;&nbsp;•&nbsp;&nbsp;•&nbsp;&nbsp;•&nbsp;
         </span>
                 <span className="text-4xl md:text-5xl font-bold text-white px-4 stroke-text opacity-80 font-mono">
-            &nbsp;•&nbsp;&nbsp;•&nbsp; JAVA &nbsp;•&nbsp; SPRING BOOT &nbsp;•&nbsp;  AI AGENT &nbsp;•&nbsp; RULE ENGINE &nbsp;•&nbsp; DOCKER &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; VUE.JS &nbsp;&nbsp;•&nbsp;&nbsp;•&nbsp;&nbsp;•&nbsp;
+            &nbsp;•&nbsp;&nbsp;•&nbsp; JAVA &nbsp;•&nbsp; AI AGENT &nbsp;•&nbsp; RULE ENGINE &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; VUE.JS &nbsp;&nbsp;•&nbsp;&nbsp;•&nbsp;&nbsp;•&nbsp;
         </span>
             </div>
         </div>

@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
                 >
                   微信 / WeChat
                 </button>
-                <a href="tel:19919996645" className="text-gray-400 hover:text-white text-sm">电话 / Phone</a>
+                <a href="tel:15910934615" className="text-gray-400 hover:text-white text-sm">电话 / Phone</a>
                 <a href="https://github.com/mingeeker" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-sm">GitHub</a>
               </div>
            </div>

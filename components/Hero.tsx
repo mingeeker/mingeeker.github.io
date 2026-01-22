@@ -86,7 +86,7 @@ const Hero: React.FC = () => {
       >
         <div className="w-8 h-[2px] bg-white mb-4" />
         <p className="text-xs md:text-sm font-medium leading-relaxed text-gray-400 tracking-wide">
-          <span className="block text-white text-lg font-bold mb-1">6年研发经验</span>
+          <span className="block text-white text-lg font-bold mb-1">十年磨一剑🔪</span>
           从Java后端开发，到AI智能体应用与工程化落地。<br/>
           <span className="text-gray-500 mt-2 block">在系统稳定性、模型行为一致性之间寻找平衡。<br/></span>
 
